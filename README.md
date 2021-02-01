@@ -1,4 +1,4 @@
-# app_imc
+# Aplicativo IMC
 
 A new Flutter project.
 
